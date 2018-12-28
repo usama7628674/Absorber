@@ -1,9 +1,18 @@
-### Keylogger
+### Absorber
 It records all keystrokes including some special keys and send them to gmail.
 
 ### Things you need
 * Windows
 * python 3.5
+
+### Features
+* Send logs each 120 seconds.
+* Send logs when chars > 50.
+* Send logs with GMAIL.
+* Multiple Session disabled.
+* Auto Persistence.
+* Some Phishing methods are included.
+* Self-destruct
 
 
 ## HOW TO INSTALL
